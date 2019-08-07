@@ -1,3 +1,5 @@
 hello mate this is my new file
 hello 
 hello mate this is a new line
+This is a new line in the file 
+This is a new line in the file 2 
